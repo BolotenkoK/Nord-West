@@ -563,6 +563,7 @@ header {
 .main-slider img {
     width: 100%;
     height: auto;
+    max-height: 502px;
 }
 
 .owl-dots {
